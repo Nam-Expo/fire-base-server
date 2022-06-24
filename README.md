@@ -5,5 +5,5 @@ SetUp:
   java version higher than 11 required
 
 To run: 
- firebase emulators:start
+ 'firebase emulators:start'
 
